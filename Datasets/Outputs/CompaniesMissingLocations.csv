@@ -1,0 +1,66 @@
+﻿Date Made Public,Company,Location,Type of breach,Type of organization,Total Records
+9/12/2007,"TennCare, Americhoice Inc.",,PORT,MED,67000
+1/27/2009,U.S. Consulate,,PHYS,GOV,0
+2/23/2006,"Deloitte & Touche, McAfee",,PORT,BSO,9290
+12/4/2009,Eastern Illinois University,,HACK,EDU,9000
+4/17/2008,"SunGard, Connecticut State University System, Buffalo State, Northwest Missouri State University",,PORT,BSO,0
+1/9/2007,Mercer Health and Benefits,,PORT,BSF,10500
+2/21/2007,"Fidelity Investments, Dairy Farmers of America",,PORT,BSF,69
+3/12/2007,Dai Nippon,,INSD,BSO,0
+6/9/2007,"Verus Inc., Concord Hospital",,DISC,MED,9297
+4/15/2011,"Rolling Stone, Radar, Corrupted Justice, Nettica, the Rick Ross Institute of New Jersey",,HACK,BSO,100000
+2/3/2011,"SettlementOne Credit Corporation, Sackett National Holdings Inc., ACRAnet Inc., Fajilan and Associates Inc. (Statewide Credit Services and Robert Fajilan)",,HACK,BSO,1800
+5/4/2011,Catholic Social Services,,PORT,EDU,1700
+5/5/2011,"Park Avenue Obstetrics and Gynecology, PC",,PORT,MED,635
+5/17/2011,Regions Bank,,INSD,BSF,149
+5/12/2011,Ohio Auditor of State Dave Yost,,PORT,GOV,0
+5/20/2011,HarborOne Credit Union,,PHYS,BSF,800
+4/28/2011,DSLReports.com,,HACK,BSO,8000
+10/22/2011,"International Association of Chiefs of Police (IACP), Boston Police Patrolmen's Association, Baldwin County Sheriff's Office in Alabama, Matrix Group",,HACK,GOV,0
+10/24/2011,Pan American Games,,DISC,BSR,1400
+9/28/2011,Atlanta Perinatal Associates,,INSD,MED,0
+12/9/2011,Stone Oak Urgent Care and Family Practice,,STAT,MED,3079
+12/3/2011,State of Tennessee Sponsored Group Health Plan,,DISC,GOV,1770
+5/23/2012,Boston Children's Hospital,,PORT,MED,2159
+7/23/2012,Gamigo,,HACK,BSR,3000000
+8/3/2012,Memorial Healthcare System (MHS),,INSD,MED,102153
+9/28/2011,"Fairview and North Memorial Hospitals, Accretive",,PORT,MED,23500
+10/8/2012,"Ohio State University, Harvard University, Stanford University, Cornell University, Princeton University, John Hopkins University, University of Michigan, University of Wisconsin, University of Houston, New York University, University of Maryland",,HACK,EDU,0
+2/19/2013,Hotusa Group,,HACK,BSR,0
+5/30/2013,Drupal.org,,HACK,BSO,0
+6/14/2013,Florida Department of Health,,DISC,MED,3300
+6/12/2013,comScore,,DISC,BSR,0
+6/28/2013,"Greensboro ABC Stores, Triad ABC",,HACK,BSR,0
+12/4/2013,"ADP, Facebook, Gmail, LinkedIn, Twitter, Yahoo, YouTube",,HACK,BSO,2000000
+11/17/2013,"MacRumors, vBulletin",,HACK,BSO,860000
+12/30/2013,T-Mobile Supplier,,HACK,BSO,0
+4/6/2014,BigMoneyJobs.com,,HACK,BSO,36802
+9/30/2011,"TRICARE Management Activity (formerly Civilian Health and Medical Program of the Uniformed Services, CHAMPUS), Science Applications International Corporation (SAIC)",,PORT,BSO,5117800
+8/12/2015,ICANN.org,,HACK,NGO,0
+11/27/2015,Rockland Nissan,,INSD,BSO,0
+12/28/2015,Unconfirmed,,DISC,BSO,191000000
+7/12/2016,Pennsylvania Revenue Department,,PORT,GOV,865
+7/19/2016,San Antonio Shoemakers,,HACK,BSO,0
+7/30/2010,Mercer,,PHYS,MED,1073
+11/4/2010,Puerto Rico Department of Health - Triple S Management Corp.,,DISC,MED,475000
+11/18/2010,"Triple-S Salud, Inc.",,PHYS,MED,398000
+12/13/2010,Hospital Auxilio Mutuo,,PHYS,MED,1000
+2/22/2011,Departamento de Salud de Puerto Rico,,PHYS,MED,2621
+9/29/2011,MAPFRE Life,,PHYS,MED,2209
+1/24/2014,"Triple-S Salud, Inc. - Breach Case#2",,PHYS,MED,398000
+4/15/2014,Administracion de Seguros de Salud - Triple S Salud Inc (BA),,PHYS,MED,46473
+7/18/2014,Administracion de Seguros de Salud - Triple S Salud Inc (BA),,DISC,MED,7911
+4/22/2015,Puerto Rico Department of Heatlh - Medicaid Program,,PHYS,MED,500
+6/27/2017,Texas Association of School Boards,,DISC,GOV,6100
+9/11/2017,ABB Inc.,,HACK,BSO,0
+11/11/2017,Lovense,,PHYS,BSO,0
+12/18/2017,"Kaiser Foundation Health Plan, Inc.",,DISC,MED,
+1/15/2018,"Jason's Deli - Deli Management, Inc.",,CARD,BSR,2000000
+1/3/2018,WEI Mortgage,,HACK,BSF,263
+2/2/2018,"Triple-S Advantage, Inc.",,DISC,MED,36305
+2/22/2018,University of Alaska,,HACK,EDU,50
+4/3/2018,Panera Bread,,DISC,BSR,37000000
+4/6/2018,Best Buy,,HACK,BSR,1
+4/17/2018,Taskrabbit,,HACK,BSR,0
+4/20/2018,Orbitz,,HACK,BSO,0
+6/1/2018,"Worldwide Services Insurance Agency, LLC",,HACK,MED,500
