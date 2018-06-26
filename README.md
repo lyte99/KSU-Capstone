@@ -1,1 +1,1 @@
-# KSU-Capstone
+KSU Capstone Project
